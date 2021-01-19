@@ -2,7 +2,7 @@ Exercise 1 - Theory questions
 -----------------------------
  
  ### What is the difference between concurrency and parallelism?
- > *Your answer here*
+ Concurrency is when two tasks can start, run, and complete in overlapping time periods. Parallelism is when tasks literally run at the same time
  
  ### Why have machines become increasingly multicore in the past decade?
  > *Your answer here*
