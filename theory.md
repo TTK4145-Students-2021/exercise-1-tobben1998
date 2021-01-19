@@ -9,7 +9,7 @@ Exercise 1 - Theory questions
  
  ### Why do we divide software (programs) into concurrently executing parts (like threads or processes)?
  (Or phrased differently: What problems do concurrency help in solving?)
- concurrency helps in doing more task. It allows the time that would be spent waint for another task.
+ concurrency helps in doing more task. It allows the time that would be spent for waiting to be spent for other tasks.
  
  ### Does creating concurrent programs make the programmer's life easier? Harder? Maybe both?
  (Come back to this after you have worked on part 4 of this exercise)
