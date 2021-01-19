@@ -5,11 +5,11 @@ Exercise 1 - Theory questions
  Concurrency is when two tasks can start, run, and complete in overlapping time periods. Parallelism is when tasks literally run at the same time
  
  ### Why have machines become increasingly multicore in the past decade?
- > *Your answer here*
+ Since the the upperlevel og clock speed has leveld out. Because of that multicore has been the way to improve computing performance
  
  ### Why do we divide software (programs) into concurrently executing parts (like threads or processes)?
  (Or phrased differently: What problems do concurrency help in solving?)
- > *Your answer here*
+ concurrency helps in doing more task. It allows the time that would be spent waint for another task.
  
  ### Does creating concurrent programs make the programmer's life easier? Harder? Maybe both?
  (Come back to this after you have worked on part 4 of this exercise)
