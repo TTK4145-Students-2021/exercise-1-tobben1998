@@ -23,7 +23,7 @@ Exercise 1 - Theory questions
  
  
  ### What is the Go-language's "goroutine"? A C/POSIX "pthread"?
- A goroutine is a lightweight thread managed by the Go runtime. Goroutines, are also functions that runs concurrently with other functions.
+ A goroutine is a lightweight thread managed by the Go runtime. Goroutines, are also functions that runs concurrently with other functions..
  
  ### In Go, what does `func GOMAXPROCS(n int) int` change? 
 It changes the maximum number of cpus that can be executions at the same time.
