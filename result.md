@@ -1,0 +1,1 @@
+I både c og go funker prgrammet ca likt. To functioner kjører sammtidig. Den ene trekker fra og den andre legger til variabelen. Men de får ikke gjort det like mye. Fuksjonene kjører concurrently.
